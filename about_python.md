@@ -1,4 +1,6 @@
-# About Python
+# เกี่ยวกับภาษาไพทอน
+
+ไพทอนเป็นภาษาคอมพิวเตอร์ไม่กี่ภาษาที่สามารถกล่าวได้ว่าทั้งง่ายและมีมีประสิทธิภาพ คุณจะประทับใจในความง่ายของภาษานี้ที่ทำให้คุณสามารถเพ่งความสนใจไปที่การแก้ปัญหามากกว่า โครงสร้าง และ รูปแบบคำสั่งที่ใช้  
 
 Python is one of those rare languages which can claim to be both _simple_ and _powerful_.  You will find yourself pleasantly surprised to see how easy it is to concentrate on the solution to the problem rather than the syntax and structure of the language you are programming in.
 
