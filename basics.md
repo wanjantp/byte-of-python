@@ -1,6 +1,6 @@
-# Basics
+# พื้นฐาน
 
-Just printing `hello world` is not enough, is it? You want to do more than that - you want to take some input, manipulate it and get something out of it. We can achieve this in Python using constants and variables, and we'll learn some other concepts as well in this chapter.
+การพิมพ์ hello world เพียงอย่างเดียวไม่เพียงพอใช่ไหม? คุณต้องการทำมากกว่านั้น - คุณต้องการรับข้อมูล ปรับเปลี่ยน และได้รับบางอย่างออกมา เราสามารถทำสิ่งนี้ใน Python โดยใช้ค่าคงที่ (constant) และตัวแปร (variable) และเราจะเรียนรู้แนวคิดอื่น ๆ อีกด้วยในบทนี้
 
 ## Comments
 
