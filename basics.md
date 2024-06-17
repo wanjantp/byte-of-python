@@ -5,28 +5,27 @@
 ## คำอธิบาย (Comments)
 
 _Comments_ คือข้อความใด ๆ ที่อยู่ทางขวาของสัญลักษณ์ # และมีประโยชน์หลัก ๆ ในการเป็นบันทึกสำหรับผู้อ่านโปรแกรม
-For example:
+ตัวอย่างเช่น:
 
 ```python
-print('hello world') # Note that print is a function
+print('hello world') # สังเกตว่า print เป็นฟังก์ชัน
 ```
 
 or:
 
 ```python
-# Note that print is a function
+# สังเกตว่า print เป็นฟังก์ชัน
 print('hello world')
 ```
 
-Use as many useful comments as you can in your program to:
+ใช้ comment ที่เป็นประโยชน์ในโปรแกรมของคุณเพื่อ: 
+- อธิบายสมมติฐาน
+- อธิบายการตัดสินใจสำคัญ
+- อธิบายรายละเอียดสำคัญ
+- อธิบายปัญหาที่คุณพยายามแก้ไข
+- อธิบายปัญหาที่คุณพยายามเอาชนะในโปรแกรมของคุณ เป็นต้น
 
-- explain assumptions
-- explain important decisions
-- explain important details
-- explain problems you're trying to solve
-- explain problems you're trying to overcome in your program, etc.
-
-[*Code tells you how, comments should tell you why*](http://www.codinghorror.com/blog/2006/12/code-tells-you-how-comments-tell-you-why.html).
+[*โค้ดบอกวิธีการทำ แต่ comment ควรบอกเหตุผล  *](http://www.codinghorror.com/blog/2006/12/code-tells-you-how-comments-tell-you-why.html).
 
 This is useful for readers of your program so that they can easily understand what the program is doing. Remember, that person can be yourself after six months!
 
