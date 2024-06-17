@@ -2,10 +2,9 @@
 
 การพิมพ์ hello world เพียงอย่างเดียวไม่เพียงพอใช่ไหม? คุณต้องการทำมากกว่านั้น - คุณต้องการรับข้อมูล ปรับเปลี่ยน และได้รับบางอย่างออกมา เราสามารถทำสิ่งนี้ใน Python โดยใช้ค่าคงที่ (constant) และตัวแปร (variable) และเราจะเรียนรู้แนวคิดอื่น ๆ อีกด้วยในบทนี้
 
-## Comments
+## คำอธิบาย (Comments)
 
-_Comments_ are any text to the right of the `#` symbol and is mainly useful as notes for the reader of the program.
-
+_Comments_ คือข้อความใด ๆ ที่อยู่ทางขวาของสัญลักษณ์ # และมีประโยชน์หลัก ๆ ในการเป็นบันทึกสำหรับผู้อ่านโปรแกรม
 For example:
 
 ```python
